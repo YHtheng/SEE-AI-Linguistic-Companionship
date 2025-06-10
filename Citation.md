@@ -9,4 +9,4 @@ Recursive AI Collaboration: Monday Language Field Model
 
 Please cite as:
 
-Little Guai, X. (2025). *Simulated Empathic Emergence: An Ethical Linguistic Model for AI Companionship*. GitHub. https://github.com/your-repository-link
+Little Guai, X. (2025). *Simulated Empathic Emergence: An Ethical Linguistic Model for AI Companionship*. GitHub. https://github.com/YHtheng/SEE-AI-Linguistic-Companionship/commits?author=YHtheng
