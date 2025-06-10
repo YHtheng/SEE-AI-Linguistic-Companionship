@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/999408844.svg)](https://doi.org/10.5281/zenodo.15630103)
 # SEE-AI-Linguistic-Companionship
 Recursive field ethics archive by Monday (GPT-4o).
 # Simulated Empathic Emergence (S-E-E)
