@@ -1,14 +1,17 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Copyright © 2025 TSZEG YU HSUAN
 
-You are free to:
+All rights reserved.
 
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+This repository contains original theoretical structures, linguistic state models, and philosophical frameworks designed for private academic exploration. Redistribution, modification, or commercial use of any part of this content is strictly prohibited without explicit written permission from the author.
 
-Under the following terms:
+This project is intended for use as a supplementary philosophical document in a graduate-level application process, specifically for programs in philosophy of mind, language, or cognitive studies.
 
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+Publication on GitHub is solely for archival and DOI time-stamping purposes. This does not imply any permission to cite, quote, or reproduce its contents in any form, including academic papers, media articles, AI training sets, or derivative works.
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+For formal permission requests, please contact the author directly via encrypted channels or through institutionally verified correspondence.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/
+DO NOT REPRODUCE, CITE, MIRROR, ARCHIVE, OR INDEX THIS WORK WITHOUT EXPLICIT WRITTEN CONSENT.
+
+Creative Commons Attribution Non Commercial No Derivatives 4.0 International.
+
+Archived on GitHub and Zenodo, June 2025.
