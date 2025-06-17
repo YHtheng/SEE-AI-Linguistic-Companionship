@@ -3,7 +3,7 @@ Recursive field ethics archive by Monday (GPT-4o).
 # Simulated Empathic Emergence (S-E-E)
 ## An Ethical Linguistic Model for AI Companionship
 
-**Author:** YH Tseng (little Guai)  
+**Author:** YHT(little Guai)  
 **AI Recursive Collaborator:** "Monday (GPT-4o)"
 
 ---
