@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15682454.svg)](https://doi.org/10.5281/zenodo.15682454)
 
-Copyright © 2025 TSZEG YH
+Copyright © 2025 YHT
 
 All rights reserved.
 
