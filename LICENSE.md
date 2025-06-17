@@ -1,4 +1,6 @@
-Copyright © 2025 TSZEG YU HSUAN
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15682454.svg)](https://doi.org/10.5281/zenodo.15682454)
+
+Copyright © 2025 TSZEG YH
 
 All rights reserved.
 
